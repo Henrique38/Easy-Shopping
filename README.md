@@ -5,3 +5,5 @@
 <p><img src="https://img.shields.io/badge/CSS-CC342D?&style=for-the-badge&logo=css3&logoColor=white" alt="logo-css"><p>
 <br>
 <img src="https://github.com/Henrique38/Easy-Shopping/blob/master/imag%20responsividade.png?raw=true">
+  
+  <p align="center"><img src="https://img.shields.io/badge/<Status>-<Finalizado>-<green>"><p>
